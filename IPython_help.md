@@ -5,3 +5,4 @@ Every Python object contains a reference to a string called docstring, which con
 - we can do this using len? and that will print out the docstring below this command; the output usually contains signature (if it's a function), docstring, and type.
 - It works for object methods, objects themselves, or even for functions that we create.
 - For adding a docstring to our custom functions, we can use the Python triple quotes as it supports multiline strings to create a string literal at the beginning of the function.
+- We can exit from IPython using the exit function. Just type exit.
