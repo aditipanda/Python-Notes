@@ -64,4 +64,4 @@ Tab can be useful when we are aware of the initial few characters, but if not:
   - ctrl+l: clear terminal session
   - ctrl+c: interrupt current python command, useful when you inadverdently start a very long-running job.
   - ctrl+d: exit ipython session
-  - 
+  
